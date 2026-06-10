@@ -1,34 +1,60 @@
-# Hi, I'm Onyinyechi 👋
+# Hi, I'm Onyinyechi Chukwu 👋
 
 🎓 Software Engineering Student  
-💻 Currently learning Git, GitHub, and Web Development  
-🚀 Building my skills step by step through projects and practice  
-🌍 Based in Nigeria  
+💻 Aspiring Software Engineer | AI/ML Enthusiast  
+🌍 Focused on global internship opportunities (2027)
 
 ---
 
-## 📚 What I'm working on
-- Learning Git & GitHub workflows  
-- Building beginner-friendly coding projects  
-- Improving my problem-solving skills  
+## 👩‍💻 About Me
+I am a Software Engineering student passionate about building practical and impactful software solutions.
+
+I am currently focused on improving my skills in:
+- Full-Stack Web Development
+- Artificial Intelligence & Machine Learning
+- Cloud Computing fundamentals
+
+I am actively building projects and developing my GitHub portfolio in preparation for international internship opportunities.
 
 ---
 
-## 🛠️ Tech I'm exploring
-- Python (primary focus)  
-- JavaScript (web development basics)  
-- HTML & CSS  
-- Git & GitHub  
-- Exploring: Java, PHP, and other backend technologies 
+## 🚀 Current Learning Focus
+- Python for AI/ML
+- Flask for backend development
+- HTML, CSS, JavaScript for frontend development
+- Machine Learning (Scikit-learn, Pandas, NumPy)
+- Microsoft Learn certifications (AI & Azure fundamentals)
 
 ---
 
-## 🏆 Certifications & Learning
-- Currently software engineering and tech fundamentals courses  
-- Learning through platforms like Microsoft Learn and hands-on practice  
-- Continuously improving through small projects and exercises  
+## 🛠️ Tech Stack
+- Languages: Python, JavaScript, C++
+- Frontend: HTML, CSS, JavaScript
+- Backend: Flask
+- Database: SQLite (learning PostgreSQL)
+- Tools: Git, GitHub, VS Code
 
 ---
 
-## 📫 Connect with me
-- GitHub: https://github.com/queen-onyi
+## 📌 Current Projects
+- Student Management System (Full-Stack Web Application)
+- Student Performance Predictor (AI/ML Project)
+- API-based Applications (Weather / Utility apps)
+
+---
+
+## 📈 Goals for 2026
+- Build 4–6 strong portfolio projects
+- Contribute to open-source projects
+- Complete Microsoft AI-900 & AZ-900 certifications
+- Apply for international software engineering internships
+
+---
+
+## 📫 Contact
+- 📧 Email: chukwu.onyinyechi28@gmail.com  
+- 💻 GitHub: https://github.com/queen-onyi  
+
+---
+
+⭐ Always learning, always building.
