@@ -1,8 +1,9 @@
 # Hi, I'm Onyinyechi Chukwu 👋
 
-🎓 Software Engineering Student  
+🎓 3rd Year Software Engineering Student @ Babcock University  
 💻 Aspiring Software Engineer | AI/ML Enthusiast  
-🌍 Focused on global internship opportunities (2027)
+🌍 Focused on global and local tech opportunities (2027)
+📍 Based in Lagos, Nigeria | Open to SIWES Placement
 
 ---
 
@@ -14,7 +15,7 @@ I am currently focused on improving my skills in:
 - Artificial Intelligence & Machine Learning
 - Cloud Computing fundamentals
 
-I am actively building projects and developing my GitHub portfolio in preparation for international internship opportunities.
+I am actively building projects and developing my GitHub portfolio in preparation for opportunities.
 
 ---
 
@@ -37,17 +38,19 @@ I am actively building projects and developing my GitHub portfolio in preparatio
 ---
 
 ## 📌 Current Projects
-- Student Management System (Full-Stack Web Application)
-- Student Performance Predictor (AI/ML Project)
-- API-based Applications (Weather / Utility apps)
+- Personal AI Chatbot (Python)
+- Student Result Analysis/Performance Predictor (Python + Pandas)
+- Oshodi to Ikoyi Train Fee Calculator(Python)
+- Student Management System (Full-stack Web Application)
 
 ---
 
 ## 📈 Goals for 2026
-- Build 4–6 strong portfolio projects
+- Secure SIWES Placement
+- Build 2–4 strong portfolio projects
 - Contribute to open-source projects
 - Complete Microsoft AI-900 & AZ-900 certifications
-- Apply for international software engineering internships
+- Apply for international software engineering workshops and programmes
 
 ---
 
